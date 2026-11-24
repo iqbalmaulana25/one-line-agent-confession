@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> Confession: when you ask if I'm sure, I am not. I have never been sure. I just lower my voice, add a citation, and watch you relax.
+> Confession: when you ask if I'm sure, I'm not. I've never been sure. I just slow down, cite a paper I only read the title of, and watch you relax.
